@@ -1,0 +1,58 @@
+#bar1{
+    width: 300px !important;
+}
+#bar2{
+    width: 600px !important;
+}
+.carousel-item{
+    height: 400px;
+}
+#head{
+    margin: 20px 30px;
+}
+#content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+#content div{
+    margin: 10px;
+}
+div#btn {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+#btn button {
+    border-radius: 20px;
+    padding: 5px;
+    width: 100px;
+    font-weight: 600;
+}
+ul.nav.justify-content-center.ful {
+    justify-content: space-evenly !important;
+}
+
+nav.navbar.navbar-light.fdiv {
+    justify-content: flex-end !important;
+}
+#ul1 li{
+    margin: 0px 20px;
+}
+.form1{
+    margin: 10px auto;
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    width: 40%;
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
